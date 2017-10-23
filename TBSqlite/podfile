@@ -1,0 +1,9 @@
+platform :ios, ‘9.0’
+target ‘TBSqlite’ do
+
+xcodeproj 'TBSqlite'
+
+pod 'MJExtension'
+pod 'FMDB'
+
+end
